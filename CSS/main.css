@@ -221,7 +221,7 @@ ul {
 /* Start landing */
 .landing {
     min-height: 100vh;
-    background-image: url(/images/landing.jpg);
+    background-image: url(../images/landing.jpg);
     background-size: cover;
     background-color: grey;
     position: relative;
@@ -374,7 +374,7 @@ ul {
     padding: var(--section-padding) 0px;
     height: 600px;
     position: relative;
-    background-image: url(/images/design-features.jpg);
+    background-image: url(../images/design-features.jpg);
     display: flex;
     background-size: cover;
     align-items: center;
@@ -599,7 +599,7 @@ ul {
 /* Start Stats */
 
 .stats {
-    background-image: url(/images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     position: relative;
     padding: var(--section-padding) 0px;
@@ -810,7 +810,7 @@ ul {
 /* End Skills */
 /* Start Quote */
 .quote {
-    background-image: url(/images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     padding: var(--section-padding) 0px;
     position: relative;
@@ -940,7 +940,7 @@ ul {
 /* Start Sub  */
 .sub {
     padding: var(--section-padding) 0;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1119,7 +1119,7 @@ ul {
 .footer {
     padding: calc(var(--section-padding) / 2) 0;
     background-size: cover;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     color: white;
     position: relative;
     text-align: center;
